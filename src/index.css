@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+
+
+@theme {
+  --font-gupter: "Gupter", sans-serif; 
+  --font-habibi: "Habibi", sans-serif; 
+}
