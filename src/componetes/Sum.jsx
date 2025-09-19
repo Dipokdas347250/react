@@ -11,7 +11,7 @@ const Sum = () => {
         <Container>
             <div className="">
                 <h2 className=' text-[23px] text-[#000] font-bold font-gupter text-center'>SUM OF OUR TRUSTED CLIENTS</h2>
-                <ul className=' flex justify-between items-center text-[45px] text-[#72696A] font-bold font-gupter mt-[90px]'>
+                <ul className=' flex justify-between items-center text-[45px] text-[#72696A] font-bold font-gupter mt-[90px] px-[70px]'>
                     <li>Samsung</li>
                     <li>Google</li>
                     <li>IBM</li>
